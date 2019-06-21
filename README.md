@@ -1,2 +1,2 @@
 # machine-learning-examples
-studying files
+study files
